@@ -1,6 +1,5 @@
 <html>
 <body>
-This is a blank php page.
-6
+Hello World!
 </body>
 </html>
